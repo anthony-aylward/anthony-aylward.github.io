@@ -19,6 +19,18 @@ managing memory resources on a CentOS system with several users, which
 relies on my python packages [mutil](https://pypi.org/project/mutil/) and
 [fancyprint](https://pypi.org/project/fancyprint/).
 
+- Moderate expertise in programing with Python for web applications. This
+includes SQL (specifically SQLite3). See my personal extension to the popular
+web framework [Flask](https://flask.palletsprojects.com/en/1.1.x/), comprising
+[ftscursor](https://pypi.org/project/ftscursor/) and
+[flask-ftscursor](https://pypi.org/project/Flask-FTSCursor/). See also my
+websites: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
+([GitHub](https://github.com/anthony-aylward/ucsd-bisb-unofficial)) and
+[OK-scope](http://okscope.info)
+([GitHub](https://github.com/anthony-aylward/okscope))
+
+### Bioinformatics / statistics
+
 - High expertise with software tools for next-generation high-throughput DNA
 sequencing data, including:
   * sequence alignment (e.g.
@@ -29,15 +41,6 @@ sequencing data, including:
     [picard](https://broadinstitute.github.io/picard/),
     [SAMtools](http://samtools.sourceforge.net),
     [bedtools](https://bedtools.readthedocs.io/en/latest/), etc.)
-
-- Experience with popular biological databases such as
-[dbSNP](https://www.ncbi.nlm.nih.gov/snp/),
-[1KGP](https://www.internationalgenome.org),
-[ENCODE](https://www.encodeproject.org),
-[Roadmap](http://www.roadmapepigenomics.org),
-[GTEx](http://www.roadmapepigenomics.org), 
-[GWAS catalog](https://www.ebi.ac.uk/gwas/), 
-including working programatically with API's.
 
 - High expertise in programming with Python for bioinformatics applications.
 See my various packages on [GitHub](https://github.com/anthony-aylward),
@@ -52,16 +55,6 @@ including:
   * [coloc](https://pypi.org/project/coloc/) : Python implementation of COLOC from [Giambartolomei et al.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
   * [betabernsum](https://pypi.org/project/betabernsum/) : Sums of beta-bernoulli random variables
 
-- Moderate expertise in programing with Python for web applications. This
-includes SQL (specifically SQLite3). See my personal extension to the popular
-web framework [Flask](https://flask.palletsprojects.com/en/1.1.x/), comprising
-[ftscursor](https://pypi.org/project/ftscursor/) and
-[flask-ftscursor](https://pypi.org/project/Flask-FTSCursor/). See also my
-websites: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
-([GitHub](https://github.com/anthony-aylward/ucsd-bisb-unofficial)) and
-[OK-scope](http://okscope.info)
-([GitHub](https://github.com/anthony-aylward/okscope))
-
 - High expertise in programming with R and [Bioconductor](https://www.bioconductor.org) for bioinformatics and statistics. See my packages:
   * [exploreatacseq](https://github.com/anthony-aylward/exploreatacseq/blob/master/README.md) : Exploratory analysis of multiple ATAC-seq datasets
   * [refflat](https://github.com/anthony-aylward/refflat) : plot the locations of genes within a small genomic interval (this one has a good example of a [vignette](https://github.com/anthony-aylward/refflat/blob/master/vignettes/example_plot.md))
@@ -73,11 +66,24 @@ websites: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
 training in math/statistics (including undergraduate and graduate courses) and
 further independent learning during graduate school.
 
+### Biology
+
 - Deep domain knowledge of statistical genetics, functional genomics, and
 molecular biology topics, especially as they relate to Type 1 and Type 2
 diabetes (see Publications). I routinely generate data-driven hypotheses for
 biological experiments such as ChIP-seq, ATAC-seq, RNA-seq, EMSA, or reporter
 assays, and interpret the experimental results.
+
+- Experience with popular biological databases such as
+[dbSNP](https://www.ncbi.nlm.nih.gov/snp/),
+[1KGP](https://www.internationalgenome.org),
+[ENCODE](https://www.encodeproject.org),
+[Roadmap](http://www.roadmapepigenomics.org),
+[GTEx](http://www.roadmapepigenomics.org), 
+[GWAS catalog](https://www.ebi.ac.uk/gwas/), 
+including working programatically with API's.
+
+### Mentorship
 
 - I have mentored/supervised undergraduate and/or medical school students
 on both computational and experimental biology research projects. See for
