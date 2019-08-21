@@ -90,5 +90,3 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 ### In progress
 
 [A map of inflammatory-stimulated chromatin in human pancreatic islets reveals novel mechanisms of type 1 and 2 diabetes risk variants](https://github.com/anthony-aylward/islet-cytokines-outline/blob/master/abstract.md) (Accepted for poster at 2019 American Society of Human Genetics conference)
-
-github.io
