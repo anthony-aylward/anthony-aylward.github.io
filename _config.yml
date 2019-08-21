@@ -4,6 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  README.md
+  index.md
 
 theme: jekyll-theme-hacker
