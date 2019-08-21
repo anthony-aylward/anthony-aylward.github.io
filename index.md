@@ -1,5 +1,3 @@
-# Anthony Aylward (bioinformatics scientist)
-
 ## Education
 
 - 2008-2012: B.S. Mathematics (College of Creative Studies), U.C. Santa Barbara
