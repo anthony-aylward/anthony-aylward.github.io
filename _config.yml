@@ -5,6 +5,7 @@ relative_links:
   collections: true
 include:
   index.md
+  tcf7l2-nkx63-poster.pdf
 
 theme: jekyll-theme-slate
 title: Anthony Aylward
