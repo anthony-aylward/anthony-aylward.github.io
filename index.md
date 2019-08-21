@@ -20,7 +20,7 @@ relies on my python packages [mutil](https://pypi.org/project/mutil/) and
 [fancyprint](https://pypi.org/project/fancyprint/).
 
 - Moderate expertise in programing with Python for web applications. This
-includes SQL (specifically SQLite3). See my personal extension to the popular
+includes SQL. See my personal extension to the popular
 web framework [Flask](https://flask.palletsprojects.com/en/1.1.x/), comprising
 [ftscursor](https://pypi.org/project/ftscursor/) and
 [flask-ftscursor](https://pypi.org/project/Flask-FTSCursor/). See also my
@@ -79,7 +79,7 @@ assays, and interpret the experimental results.
 [1KGP](https://www.internationalgenome.org),
 [ENCODE](https://www.encodeproject.org),
 [Roadmap](http://www.roadmapepigenomics.org),
-[GTEx](http://www.roadmapepigenomics.org), 
+[GTEx](http://www.roadmapepigenomics.org), and
 [GWAS catalog](https://www.ebi.ac.uk/gwas/), 
 including working programatically with API's.
 
