@@ -1,8 +1,3 @@
----
-title: Anthony Aylward
-layout: post
----
-
 # Anthony Aylward (bioinformatics scientist)
 
 ## Education
