@@ -40,14 +40,15 @@ including working programatically with API's.
 - High expertise in programming with Python for bioinformatics applications.
 See my various packages on [GitHub](https://github.com/anthony-aylward),
 including:
-  * [chipseqpeaks](https://pypi.org/project/chipseqpeaks/)
-  * [luciferase](https://pypi.org/project/luciferase/)
-  * [tssenrich](https://pypi.org/project/tssenrich/)
-  * [pydbsnp](https://pypi.org/project/pydbsnp/)
-  * [pyhg19](https://pypi.org/project/pydbsnp/)
-  * [py1kgp](https://pypi.org/project/py1kgp/)
-  * [seqalign](https://pypi.org/project/seqalign/)
-  * [coloc](https://pypi.org/project/coloc/)
+  * [chipseqpeaks](https://pypi.org/project/chipseqpeaks/) : Determine binding sites of DNA-bound proteins from ChIP-seq data
+  * [luciferase](https://pypi.org/project/luciferase/) : Analyze and plot results from luciferase reporter assays
+  * [tssenrich](https://pypi.org/project/tssenrich/) : Calculate quality scores for accessible chromatin datasets (ATAC-seq)
+  * [pydbsnp](https://pypi.org/project/pydbsnp/) : Python tools for working with dbSNP data
+  * [pyhg19](https://pypi.org/project/pydbsnp/) : Python tools for working with human genome build hg19 / GRCh37
+  * [py1kgp](https://pypi.org/project/py1kgp/) : Python tools for working with 1000 Genomes data
+  * [seqalign](https://pypi.org/project/seqalign/) : Align NGS data using BWA or Bowtie2
+  * [coloc](https://pypi.org/project/coloc/) : Python implementation of COLOC from [Giambartolomei et al.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
+  * [betabernsum](https://pypi.org/project/betabernsum/) : Sums of beta-bernoulli random variables
 
 - Moderate expertise in programing with Python for web applications. This
 includes SQL (specifically SQLite3). See my personal extension to the popular
@@ -59,7 +60,12 @@ websites: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
 [OK-scope](http://okscope.info)
 ([GitHub](https://github.com/anthony-aylward/okscope))
 
-- High expertise in programming with R.
+- High expertise in programming with R and [Bioconductor](https://www.bioconductor.org) for bioinformatics and statistics. See my packages:
+  * [exploreatacseq](https://github.com/anthony-aylward/exploreatacseq/blob/master/README.md) : Exploratory analysis of multiple ATAC-seq datasets
+  * [refflat](https://github.com/anthony-aylward/refflat) : plot the locations of genes within a small genomic interval (this one has a good example of a [vignette](https://github.com/anthony-aylward/refflat/blob/master/vignettes/example_plot.md))
+  * [betabernsum](https://github.com/anthony-aylward/betabernsum) : Sums of beta-bernoulli random variables
+  * [selex](https://github.com/anthony-aylward/selex) : Utilities for statistical inference on SELEX sequencing data (powered by [multinomial regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression))
+  * [npbin](https://github.com/anthony-aylward/npbin) : implementation of the NPBin test for allelic imbalance in ChIP-seq data (originally by [Zhang and Keleş](https://academic.oup.com/biostatistics/article/19/4/546/4591647))
 
 - High expertise in statistical reasoning, drawing on 6 years of classroom
 training in math/statistics (including undergraduate and graduate courses) and
@@ -68,8 +74,8 @@ further independent learning during graduate school.
 - Deep domain knowledge of statistical genetics, functional genomics, and
 molecular biology topics, especially as they relate to Type 1 and Type 2
 diabetes (see Publications). I routinely generate data-driven hypotheses for
-biological experiments such as ChIP-seq, ATAC-seq, RNA-seq, EMSA, reporter
-assays... and interpret the experimental results.
+biological experiments such as ChIP-seq, ATAC-seq, RNA-seq, EMSA, or reporter
+assays, and interpret the experimental results.
 
 - I have mentored/supervised undergraduate and/or medical school students
 on both computational and experimental biology research projects. See for
