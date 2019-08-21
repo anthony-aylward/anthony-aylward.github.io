@@ -89,7 +89,8 @@ including working programatically with API's.
 and [dkNET](https://dknet.org). I used the beta version of the
 [Signaling Pathways Project](https://beta.signalingpathways.org/about/index.jsf)
 to develop hypotheses for experiments concerning the function of genetic
-variants at diabetes risk loci, such as [JAZF1](spp-jazf1/spp-jazf1.md).
+variants at diabetes risk loci, such as [JAZF1](jazf1-regulation.md),
+for example.
 
 ### Mentorship
 
