@@ -9,6 +9,8 @@ title: CV
 
 ## Expertise
 
+### Software / computing
+
 - High expertise in Linux and MacOS command line environments. Also capable of
 working with Windows. I have acted as a primary system administrator for
 my lab's computing resources over the past three years. See for example
