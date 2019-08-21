@@ -1,8 +1,3 @@
----
-layout: default
-title: simple site
----
-
 # Anthony Aylward (bioinformatics scientist)
 
 ## Education
