@@ -1,2 +1,0 @@
-# Anthony Aylward
-Bioinformatics scientist
