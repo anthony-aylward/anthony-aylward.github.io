@@ -1,0 +1,46 @@
+\title{the polyTest model}
+\author{}
+\date{}
+
+\documentclass[12pt]{scrartcl}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+\urlstyle{same}
+
+\begin{document}
+\maketitle
+
+The \texttt{polyTest} model is detailed in the supplement to
+\href{http://science.sciencemag.org/content/352/6285/600}{this paper}. It
+makes the assumption that, at each SNP $i$, the GWAS effect
+$\beta_i$ is a draw from a normal distribution centered at 0 with some
+variance $\sigma^2_i$:
+
+\[\beta_i \sim N(0,\sigma^2_i)\]
+
+It further assumes that $\sigma^2_i$ is determined by the functional
+annotations at SNP $i$, so that:
+
+\[\sigma^2_i = s_i + \exp(\sum_j x_{ij} \gamma_j)\]
+
+Where $s_i$ is a baseline value depending on properties of the SNP (allele
+frequency, imputation quality, etc),  $x_{ij}$ is 0 or 1\footnote[1]{$x_{ij}$
+could also be a continuous value} for absence or presence of annotation $j$ at
+SNP $i$, and $\gamma_j$ is the model parameter for annotation $j$.
+
+\texttt{polyTest} determines a maximum-likelihood fit for the parameters
+$(\gamma_1, \gamma_2, \gamma_3, ...)$ to the observed GWAS data.
+If annotation $j$ is uninformative about the GWAS signal, $\gamma_j$ will be
+close to 0. However, if annotation $j$ is a good model for the GWAS signal, it
+will be significantly greater than 0, because SNPs with annotation $j$ will
+have large effects and require large $\gamma_j$ (leading to large $\sigma^2$)
+for the maximum-likelihood fit.
+
+\end{document}
+This is never printed
