@@ -85,6 +85,12 @@ assays, and interpret the experimental results.
 [GWAS catalog](https://www.ebi.ac.uk/gwas/), 
 including working programatically with API's.
 
+- Held position of dkNET Fellow during a collaborative project between my lab
+and [dkNET](https://dknet.org). I used the beta version of the
+[Signaling Pathways Project](https://beta.signalingpathways.org/about/index.jsf)
+to develop hypotheses for experiments concerning the function of genetic
+variants at diabetes risk loci, such as [JAZF1](spp-jazf1/spp-jazf1.md).
+
 ### Mentorship
 
 - I have mentored/supervised undergraduate and/or medical school students
