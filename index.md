@@ -27,7 +27,9 @@ web framework [Flask](https://flask.palletsprojects.com/en/1.1.x/), comprising
 websites: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
 ([GitHub](https://github.com/anthony-aylward/ucsd-bisb-unofficial)) and
 [OK-scope](http://okscope.info)
-([GitHub](https://github.com/anthony-aylward/okscope))
+([GitHub](https://github.com/anthony-aylward/okscope)). I have also made
+occasional small contributions to the design and implementation of the
+[Diabetes Epigenmoe Atlas](https://diabetesepigenome.org).
 
 ### Bioinformatics / statistics
 
