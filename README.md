@@ -1,2 +1,2 @@
-# anthony-aylward.github.io
-My CV
+# Anthony Aylward
+Bioinformatics scientist
