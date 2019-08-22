@@ -85,7 +85,7 @@ assays, and interpret the experimental results.
 [Roadmap](http://www.roadmapepigenomics.org),
 [GTEx](http://www.roadmapepigenomics.org), and
 [GWAS catalog](https://www.ebi.ac.uk/gwas/), 
-including working programatically with API's.
+including working programmatically with API's.
 
 - Held position of dkNET Fellow during a collaborative project between my lab
 and [dkNET](https://dknet.org). I used the beta version of the
