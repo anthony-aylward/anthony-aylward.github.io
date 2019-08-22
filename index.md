@@ -29,7 +29,7 @@ websites: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
 [OK-scope](http://okscope.info)
 ([GitHub](https://github.com/anthony-aylward/okscope)). I have also made
 occasional small contributions to the design and implementation of the
-[Diabetes Epigenmoe Atlas](https://diabetesepigenome.org).
+[Diabetes Epigenome Atlas](https://diabetesepigenome.org).
 
 ### Bioinformatics / statistics
 
@@ -69,6 +69,13 @@ training in math/statistics (including undergraduate and graduate courses) and
 further independent learning during graduate school. For a toy example, see
 [this memo](polytest-model.pdf) I once wrote to give a simple & brief explanation of a statistical
 model.
+
+- Extensive study of machine learning methods as part of
+[graduate course cirriculum](http://bioinformatics.ucsd.edu/node/1135) and
+independently. Familiar with time series analysis, Markov models, decision
+trees, random forests, support vector machines, neural networks, etc. See
+[this answer to a DREAM challenge](dream-als.pdf) that I wrote with a
+classmate.
 
 ### Biology
 
