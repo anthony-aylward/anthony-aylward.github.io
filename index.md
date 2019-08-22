@@ -70,6 +70,11 @@ further independent learning during graduate school. For a toy example, see
 [this memo](polytest-model.pdf) I once wrote to give a simple & brief explanation of a statistical
 model.
 
+- Extensive study of machine learning methods as part of
+[graduate course cirriculum](http://bioinformatics.ucsd.edu/node/1135) and
+independently. Familiar with Markov models, decision trees, random forests,
+support vector machines, neural networks, etc.
+
 ### Biology
 
 - Deep domain knowledge of statistical genetics, functional genomics, and
