@@ -29,7 +29,7 @@ websites: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
 [OK-scope](http://okscope.info)
 ([GitHub](https://github.com/anthony-aylward/okscope)). I have also made
 occasional small contributions to the design and implementation of the
-[Diabetes Epigenmoe Atlas](https://diabetesepigenome.org).
+[Diabetes Epigenome Atlas](https://diabetesepigenome.org).
 
 ### Bioinformatics / statistics
 
