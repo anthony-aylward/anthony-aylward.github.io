@@ -126,3 +126,5 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 [A map of inflammatory-stimulated chromatin in human pancreatic islets reveals novel mechanisms of type 1 and 2 diabetes risk variants](https://github.com/anthony-aylward/islet-cytokines-outline/blob/master/abstract.md) (Accepted for poster at 2019 American Society of Human Genetics conference)
 
 ## Posters
+
+[Type 1 Diabetes Risk is Influenced by Both Immune Cell and Pancreatic Islet Regulatory Variation](ada-poster.Jun6.pdf) (American Diabetes Association 77th Scientific Sessions)
