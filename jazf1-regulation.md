@@ -4,7 +4,7 @@ We are interested in studying JAZF1 regulation in adipose cells and skeletal
 muscle cells. The following data illustrate our motivation:
 
 ## Association of SNPs with T2D risk and JAZF1 expression at the JAZF1 locus
-![JAZF1 motivation](figure/jazf1-mus-sklt-ENSG00000153814.7.pdf)
+![JAZF1 motivation](figure/jazf1-coloc-mus-sklt.png)
 The x-axis of this figure represents a genomic region of roughly 500 kilobases.
 All points and bars in the first three plots represent SNPs. SNPs
 that occupy skeletal muscle regulatory sites are colored according to the
@@ -26,7 +26,7 @@ in skeletal muscle.
 The below figure contains the same information, but considers adipose (
 visceral omentum) tissue in place of skeletal muscle
 
-![JAZF1 motivation 2](figure/jazf1-visceral-ENSG00000153814.7.pdf)
+![JAZF1 motivation 2](figure/jazf1-coloc-visceral.png)
 
 This motivates our interest in JAZF1 regulation. As a next step
 we can query SPP for more information about molecular regulators of JAZF1
