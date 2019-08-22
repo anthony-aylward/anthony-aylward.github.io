@@ -16,7 +16,7 @@ working with Windows. I have acted as a primary system administrator for
 my lab's computing resources over the past three years. See for example
 my [collection of tools](https://github.com/anthony-aylward/memory_policy) for
 managing memory resources on a CentOS system with several users, which
-relies on my python packages [mutil](https://pypi.org/project/mutil/) and
+relies on my Python packages [mutil](https://pypi.org/project/mutil/) and
 [fancyprint](https://pypi.org/project/fancyprint/).
 
 - Moderate expertise in programing with Python for web applications. This
