@@ -67,7 +67,7 @@ including:
 - High expertise in statistical reasoning, drawing on 6 years of classroom
 training in math/statistics (including undergraduate and graduate courses) and
 further independent learning during graduate school. For a toy example, see
-[this memo]() I once wrote to give a simple & brief explanation of a statistical
+[this memo](polytest-model.pdf) I once wrote to give a simple & brief explanation of a statistical
 model.
 
 ### Biology
