@@ -73,7 +73,9 @@ model.
 - Extensive study of machine learning methods as part of
 [graduate course cirriculum](http://bioinformatics.ucsd.edu/node/1135) and
 independently. Familiar with Markov models, decision trees, random forests,
-support vector machines, neural networks, etc.
+support vector machines, neural networks, etc. See
+[this answer to a DREAM challenge](dream-als.pdf) that I wrote with a
+classmate.
 
 ### Biology
 
