@@ -1,2 +1,1 @@
-add ada meeting poster
 add jupyter notebook example

@@ -4,8 +4,8 @@ title: CV
 
 ## Education
 
-- 2008-2012: B.S. Mathematics (College of Creative Studies), U.C. Santa Barbara
-- 2013-2020: Ph.D. Bioinformatics & Systems Biology, U.C. San Diego
+- **2008-2012:** B.S. Mathematics (College of Creative Studies), U.C. Santa Barbara
+- **2013-2020:** Ph.D. Bioinformatics & Systems Biology, U.C. San Diego
 
 ## Expertise
 
@@ -128,3 +128,7 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 ## Posters
 
 [Type 1 Diabetes Risk is Influenced by Both Immune Cell and Pancreatic Islet Regulatory Variation](ada-poster.Jun6.pdf) (American Diabetes Association 77th Scientific Sessions)
+
+## Contact
+
+**Email:** aaylawrd@eng.ucsd.edu
