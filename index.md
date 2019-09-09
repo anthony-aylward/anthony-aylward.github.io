@@ -70,12 +70,18 @@ further independent learning during graduate school. For a toy example, see
 [this memo](polytest-model.pdf) I once wrote to give a simple & brief explanation of a statistical
 model.
 
+### Machine learning / data science
+
 - Extensive study of machine learning methods as part of
 [graduate course cirriculum](http://bioinformatics.ucsd.edu/node/1135) and
 independently. Familiar with time series analysis, Markov models, decision
 trees, random forests, support vector machines, neural networks, etc. See
 [this answer to a DREAM challenge](dream-als.pdf) that I wrote with a
 classmate.
+
+- Proficiency with [Jupyter Notebooks](https://jupyter.org). See [this example](refflat_vignette.md)
+(click [here](refflat_vignette.ipynb) to download the `.ipynb` file), which demonstrates my R package
+[refflat](https://github.com/anthony-aylward/refflat).
 
 ### Biology
 
