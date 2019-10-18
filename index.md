@@ -134,6 +134,7 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 ## Posters
 
 [Type 1 Diabetes Risk is Influenced by Both Immune Cell and Pancreatic Islet Regulatory Variation](ada-poster.Jun6.pdf) (American Diabetes Association 77th Scientific Sessions)
+[A map of accessible chromatin in pancreatic islets exposed to pro- and anti-inflammatory stimuli reveals mechanisms of diabetes risk](aaylward-ashg-2019.pdf) (American Society of Human Genetics, 2019)
 
 ## Contact
 
