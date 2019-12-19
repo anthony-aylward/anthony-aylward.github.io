@@ -58,7 +58,7 @@ See my various packages on [GitHub](https://github.com/anthony-aylward) or
   * [betabernsum](https://pypi.org/project/betabernsum/) : Sums of beta-bernoulli random variables
 
 - High expertise in programming with R and [Bioconductor](https://www.bioconductor.org) for bioinformatics and statistics. See my packages:
-  * [exploreatacseq](https://github.com/anthony-aylward/exploreatacseq/blob/master/README.md) : Exploratory analysis of multiple ATAC-seq datasets
+  * [exploreatacseq](https://github.com/anthony-aylward/exploreatacseq) : Exploratory analysis of multiple ATAC-seq datasets
   * [refflat](https://github.com/anthony-aylward/refflat) : plot the locations of genes within a small genomic interval (this one has a good example of a [vignette](https://github.com/anthony-aylward/refflat/blob/master/vignettes/example_plot.md))
   * [betabernsum](https://github.com/anthony-aylward/betabernsum) : Sums of beta-bernoulli random variables
   * [selex](https://github.com/anthony-aylward/selex) : Utilities for statistical inference on SELEX sequencing data (powered by [multinomial regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression))
