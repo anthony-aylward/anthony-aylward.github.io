@@ -45,8 +45,8 @@ sequencing data, including:
     [bedtools](https://bedtools.readthedocs.io/en/latest/), etc.)
 
 - High expertise in programming with Python for bioinformatics applications.
-See my various packages on [GitHub](https://github.com/anthony-aylward),
-including:
+See my various packages on [GitHub](https://github.com/anthony-aylward) or
+[PyPI](https://pypi.org), including:
   * [chipseqpeaks](https://pypi.org/project/chipseqpeaks/) : Determine binding sites of DNA-bound proteins from ChIP-seq data
   * [luciferase](https://pypi.org/project/luciferase/) : Analyze and plot results from luciferase reporter assays
   * [tssenrich](https://pypi.org/project/tssenrich/) : Calculate quality scores for accessible chromatin datasets (ATAC-seq)
