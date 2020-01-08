@@ -85,6 +85,9 @@ classmate.
 
 ### Biology
 
+- Basic experience in an experimental lab setting, including maintaining equipment
+such as freezers, pH meters, etc.
+
 - Deep domain knowledge of statistical genetics, functional genomics, and
 molecular biology topics, especially as they relate to Type 1 and Type 2
 diabetes (see Publications). I routinely generate data-driven hypotheses for
