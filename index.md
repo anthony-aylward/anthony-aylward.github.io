@@ -66,7 +66,8 @@ See my various packages on [GitHub](https://github.com/anthony-aylward) or
 
 - High expertise in statistical reasoning, drawing on 6 years of classroom
 training in math/statistics (including undergraduate and graduate courses) and
-further independent learning during graduate school. For a toy example, see
+further independent learning during graduate school. I routinely advise other
+graduate students and postdocs on statistical analysis questions. For a toy example, see
 [this memo](polytest-model.pdf) I once wrote to give a simple & brief explanation of a statistical
 model.
 
