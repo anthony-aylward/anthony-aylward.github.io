@@ -50,6 +50,7 @@ See my various packages on [GitHub](https://github.com/anthony-aylward) or
   * [chipseqpeaks](https://pypi.org/project/chipseqpeaks/) : Determine binding sites of DNA-bound proteins from ChIP-seq data
   * [luciferase](https://pypi.org/project/luciferase/) : Analyze and plot results from luciferase reporter assays
   * [tssenrich](https://pypi.org/project/tssenrich/) : Calculate quality scores for accessible chromatin datasets (ATAC-seq)
+  * [gtracks](https://pypi.org/project/gtracks/) : Plot genome track data from bigWig files
   * [pydbsnp](https://pypi.org/project/pydbsnp/) : Python tools for working with dbSNP data
   * [pyhg19](https://pypi.org/project/pydbsnp/) : Python tools for working with human genome build hg19 / GRCh37
   * [py1kgp](https://pypi.org/project/py1kgp/) : Python tools for working with 1000 Genomes data
