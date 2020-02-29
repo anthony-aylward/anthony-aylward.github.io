@@ -42,7 +42,8 @@ sequencing data, including:
   * post-alignment analysis (e.g.
     [picard](https://broadinstitute.github.io/picard/),
     [SAMtools](http://samtools.sourceforge.net),
-    [bedtools](https://bedtools.readthedocs.io/en/latest/), etc.)
+    [bedtools](https://bedtools.readthedocs.io/en/latest/),
+    [deepTools](https://deeptools.readthedocs.io/en/develop/) etc.)
 
 - High expertise in programming with Python for bioinformatics applications.
 See my various packages on [GitHub](https://github.com/anthony-aylward) or
