@@ -125,6 +125,8 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 
 ### First Author
 
+[Glucocorticoid signaling in pancreatic islets modulates gene regulatory programs and genetic risk of type 2 diabetes](https://www.biorxiv.org/content/10.1101/2020.05.15.038679v1) (2020)
+
 [Shared genetic risk contributes to type 1 and type 2 diabetes etiology](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddy314/5164287) (2018)
 
 ### Other
