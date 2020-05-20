@@ -131,7 +131,7 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 
 ### Other
 
-[Pancreatic progenitor epigenome maps prioritize type 2 diabetes risk genes with roles in development](https://www.biorxiv.org/content/10.1101/2020.05.18.101071v1)
+[Pancreatic progenitor epigenome maps prioritize type 2 diabetes risk genes with roles in development](https://www.biorxiv.org/content/10.1101/2020.05.18.101071v1) (2020)
 
 [Pancreatic islet chromatin accessibility and conformation reveals distal enhancer networks of type 2 diabetes risk](https://www.nature.com/articles/s41467-019-09975-4) (2019)
 
