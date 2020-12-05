@@ -1,5 +1,5 @@
 ---
-title: CV
+title: CV, Anthony Aylward
 ---
 
 ## Education
@@ -69,9 +69,7 @@ See my various packages on [GitHub](https://github.com/anthony-aylward) or
 - High expertise in statistical reasoning, drawing on 6 years of classroom
 training in math/statistics (including undergraduate and graduate courses) and
 further independent learning during graduate school. I routinely advise other
-graduate students and postdocs on statistical analysis questions. For a toy example, see
-[this memo](polytest-model.pdf) I once wrote to give a simple & brief explanation of a statistical
-model.
+graduate students and postdocs on statistical analysis questions. For a toy example, see [this memo](polytest-model.pdf) I once wrote to give a simple & brief explanation of a statistical model.
 
 ### Machine learning / data science
 
@@ -130,6 +128,8 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 [Shared genetic risk contributes to type 1 and type 2 diabetes etiology](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddy314/5164287) (2018)
 
 ### Other
+
+[Mapping genetic effects on cell type-specific chromatin accessibility and annotating complex trait variants using single nucleus ATAC-seq](https://www.biorxiv.org/content/10.1101/2020.12.03.387894v1) (2020)
 
 [Pancreatic progenitor epigenome maps prioritize type 2 diabetes risk genes with roles in development](https://www.biorxiv.org/content/10.1101/2020.05.18.101071v1) (2020)
 
