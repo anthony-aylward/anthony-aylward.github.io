@@ -5,7 +5,7 @@ title: CV, Anthony Aylward
 ## Education
 
 - **2008-2012:** B.S. Mathematics (College of Creative Studies), U.C. Santa Barbara
-- **2013-2020:** Ph.D. Bioinformatics & Systems Biology, U.C. San Diego
+- **2013-2021:** Ph.D. Bioinformatics & Systems Biology, U.C. San Diego
 
 ## Expertise
 
