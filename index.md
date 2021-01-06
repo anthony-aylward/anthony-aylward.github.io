@@ -24,10 +24,8 @@ includes SQL. See my personal extension to the popular
 web framework [Flask](https://flask.palletsprojects.com/en/1.1.x/), comprising
 [ftscursor](https://pypi.org/project/ftscursor/) and
 [flask-ftscursor](https://pypi.org/project/Flask-FTSCursor/). See also my
-websites: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
-([GitHub](https://github.com/anthony-aylward/ucsd-bisb-unofficial)) and
-[OK-scope](http://okscope.info)
-([GitHub](https://github.com/anthony-aylward/okscope)). I have also made
+website: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
+([GitHub](https://github.com/anthony-aylward/ucsd-bisb-unofficial)). I have also made
 occasional contributions to the design and implementation of the
 [Diabetes Epigenome Atlas](https://diabetesepigenome.org).
 
