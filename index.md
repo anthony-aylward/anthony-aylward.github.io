@@ -12,7 +12,7 @@ title: CV, Anthony Aylward
 ### Software / computing
 
 - High expertise in Linux and MacOS command line environments. Also capable of
-working with Windows. I have acted as a primary system administrator for
+working with Windows. I acted as a primary system administrator for
 my lab's computing resources for several years. See for example
 my [collection of tools](https://github.com/anthony-aylward/memory_policy) for
 managing memory resources on a CentOS system with several users, which
