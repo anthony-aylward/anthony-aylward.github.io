@@ -143,4 +143,4 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 
 ## Contact
 
-**Email:** aaylward@eng.ucsd.edu, anthony.aylward@gmail.com
+**Email:** aaylward@eng.ucsd.edu, anthony.aylward@protonmail.com
