@@ -19,12 +19,13 @@ managing memory resources on a CentOS system with several users, which
 relies on my Python packages [mutil](https://pypi.org/project/mutil/) and
 [fancyprint](https://pypi.org/project/fancyprint/).
 
-- Moderate expertise in programing with Python for web applications. This
+- Expertise in programing with Python for web applications. This
 includes SQL. See my personal extension to the popular
 web framework [Flask](https://flask.palletsprojects.com/en/1.1.x/), comprising
 [ftscursor](https://pypi.org/project/ftscursor/) and
 [flask-ftscursor](https://pypi.org/project/Flask-FTSCursor/). See also my
-website: [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
+websites: [acdumo.info](https://acdumo.info)
+([GitHub](https://github.com/anthony-aylward/acdumo)) and [UCSD BISB Unofficial](https://ucsd-bisb.info/auth/demo)
 ([GitHub](https://github.com/anthony-aylward/ucsd-bisb-unofficial)). I have also made
 occasional contributions to the design and implementation of the
 [Diabetes Epigenome Atlas](https://diabetesepigenome.org).
