@@ -128,13 +128,13 @@ Sanchez's [ENCODE project API tool](https://github.com/yleiaa/ENCODE).
 
 ### Other
 
-[Pancreatic progenitor epigenome maps prioritize type 2 diabetes risk genes with roles in development](https://elifesciences.org/articles/59067) (2021)
+[Pancreatic progenitor epigenome maps prioritize type 2 diabetes risk genes with roles in development](https://elifesciences.org/articles/59067) (eLife, 2021)
 
-[Mapping genetic effects on cell type-specific chromatin accessibility and annotating complex trait variants using single nucleus ATAC-seq](https://www.biorxiv.org/content/10.1101/2020.12.03.387894v1) (2020)
+[Mapping genetic effects on cell type-specific chromatin accessibility and annotating complex trait variants using single nucleus ATAC-seq](https://www.biorxiv.org/content/10.1101/2020.12.03.387894v1) (bioRxiv, 2020)
 
-[Pancreatic islet chromatin accessibility and conformation reveals distal enhancer networks of type 2 diabetes risk](https://www.nature.com/articles/s41467-019-09975-4) (2019)
+[Pancreatic islet chromatin accessibility and conformation reveals distal enhancer networks of type 2 diabetes risk](https://www.nature.com/articles/s41467-019-09975-4) (Nature Communications, 2019)
 
-[Gene-Wide Identification of Episodic Selection](https://academic.oup.com/mbe/article/32/5/1365/1134918) (2015)
+[Gene-Wide Identification of Episodic Selection](https://academic.oup.com/mbe/article/32/5/1365/1134918) (Molecular Biology and Evolution, 2015)
 
 ## Posters
 
